@@ -1,0 +1,23 @@
+body {
+    background-color: turquoise; text-align: center; padding: 20px;
+}
+h1 {
+    color: navy;
+}
+p {
+    font-size: 18px;
+}
+.category1 {
+color: hotpink;
+}
+
+.category2 {
+    color: hotpink;
+}
+
+#main-content {
+    background-color: navy; padding: 20px; border-radius: 10px;;
+}
+.highlight {
+    color: yellow; text-align: center; font-size: larger;
+}
